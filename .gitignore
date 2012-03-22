@@ -1,0 +1,12 @@
+.settings
+.project
+.classpath
+.idea
+*.iml
+*.ipr
+*.iws
+log.xml
+target
+Extraction+Job*
+.cache
+server/src/main/resources
